@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Dhruv Barsena
 
 <!--
 **Barsena-dv/Barsena-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hey, I'm Dhruv Barsena
 
 💻 **IT Student | Web & Python Developer | Curious Mind**  
 🌱 Currently learning **React.js, Tailwind CSS, Node.js**  
