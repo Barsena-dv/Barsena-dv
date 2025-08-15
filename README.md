@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 ## 📫 Connect with Me
 - **Email:** (mailto:barsenadhruv1280r@gmail.com)  
-- **LinkedIn:** ([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/barsena-dhruv-a24b54374/))  
-- **GitHub:** ([https://github.com/yourusername](https://github.com/Barsena-dv))
+- **LinkedIn:** ([linkedin.com](https://www.linkedin.com/in/barsena-dhruv-a24b54374/))  
+- **GitHub:** ([github.com](https://github.com/Barsena-dv))
 
 ---
  
